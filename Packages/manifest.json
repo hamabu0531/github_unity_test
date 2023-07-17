@@ -1,6 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+    "com.unity.collab-proxy": "2.0.5",
+=======
     "com.unity.collab-proxy": "2.0.4",
+>>>>>>> 56a12ff311264f8b192fa42424537e3a61f65e27
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.7.4",
