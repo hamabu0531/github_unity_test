@@ -15,6 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 43.2
     width: 1536
     height: 772.8
@@ -22,6 +23,15 @@ MonoBehaviour:
   m_Title: GitHub
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
+=======
+    y: 43
+    width: 1920
+    height: 989
+  m_ShowMode: 4
+  m_Title: Hierarchy
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 875, y: 492}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -38,14 +48,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 3}
+<<<<<<< HEAD
   - {fileID: 5}
   - {fileID: 4}
+=======
+  - {fileID: 4}
+  - {fileID: 5}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1536
     height: 772.8
+=======
+    width: 1920
+    height: 989
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -69,11 +89,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1536
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
+=======
+    width: 1920
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 2 by 3
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -83,6 +111,36 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
+=======
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 6}
+  - {fileID: 7}
+  - {fileID: 8}
+  - {fileID: 9}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1920
+    height: 939
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 32384, y: 16192}
+  vertical: 0
+  controlID: 823
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -90,6 +148,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 752.8
     width: 1536
     height: 20
@@ -122,6 +181,13 @@ MonoBehaviour:
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
   controlID: 124
+=======
+    y: 969
+    width: 1920
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,18 +201,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
+<<<<<<< HEAD
   - {fileID: 7}
   - {fileID: 8}
+=======
+  - {fileID: 10}
+  - {fileID: 11}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 724
     height: 722.8
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
   controlID: 25
+=======
+    width: 907
+    height: 939
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 8096, y: 16192}
+  vertical: 1
+  controlID: 726
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,6 +242,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 0
     width: 724
@@ -201,6 +282,20 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &9
+=======
+    x: 907
+    y: 0
+    width: 308
+    height: 939
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 13}
+  m_Panes:
+  - {fileID: 13}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &8
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -215,6 +310,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 724
     y: 0
     width: 244
@@ -226,6 +322,46 @@ MonoBehaviour:
   - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 0
+=======
+    x: 1215
+    y: 0
+    width: 275
+    height: 939
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Window
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1490
+    y: 0
+    width: 430
+    height: 939
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 12}
+  m_Panes:
+  - {fileID: 14}
+  - {fileID: 12}
+  m_Selected: 1
+  m_LastSelected: 0
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -241,12 +377,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 968
     y: 0
     width: 223.19995
     height: 722.8
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
+=======
+    x: 0
+    y: 0
+    width: 907
+    height: 482
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -262,11 +407,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
   m_Name: Window
+=======
+  m_Name: 
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1191.2
     y: 0
     width: 344.80005
@@ -278,6 +428,18 @@ MonoBehaviour:
   - {fileID: 18}
   - {fileID: 12}
   m_Selected: 1
+=======
+    x: 0
+    y: 482
+    width: 907
+    height: 457
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  m_Selected: 0
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
@@ -299,10 +461,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1191.2001
     y: 73.6
     width: 343.80005
     height: 701.8
+=======
+    x: 1490
+    y: 73
+    width: 429
+    height: 918
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -313,7 +482,11 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
     m_OverlaysVisible: 1
+<<<<<<< HEAD
   progressMessageClearTime: -1
+=======
+  progressMessageClearTime: 1660.4265341
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
@@ -324,10 +497,17 @@ MonoBehaviour:
   changeTab: 3
   activeTab: 3
   initProjectView:
+<<<<<<< HEAD
     hasCompletedInitialCheck: 1
     isUserDataPresent: 1
     lastCheckUserChangedEvent:
       updatedTimeString: 2023-07-18T08:31:31.084+09:00
+=======
+    hasCompletedInitialCheck: 0
+    isUserDataPresent: 0
+    lastCheckUserChangedEvent:
+      updatedTimeString: 2023-07-17T18:43:15.916+09:00
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       cacheType: 8
   branchesView:
     treeLocals:
@@ -375,9 +555,16 @@ MonoBehaviour:
         isActive: 1
         treeIsCheckable: 0
         checkState: 0
+<<<<<<< HEAD
       - path: testets
         label: testets
         level: 1
+=======
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -385,6 +572,7 @@ MonoBehaviour:
         isActive: 0
         treeIsCheckable: 0
         checkState: 0
+<<<<<<< HEAD
       selectedNode:
         path: master
         label: master
@@ -396,6 +584,8 @@ MonoBehaviour:
         isActive: 1
         treeIsCheckable: 0
         checkState: 0
+=======
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     treeRemotes:
       IsRemote: 1
       folders:
@@ -462,6 +652,7 @@ MonoBehaviour:
         isActive: 0
         treeIsCheckable: 0
         checkState: 0
+<<<<<<< HEAD
       - path: origin/testets
         label: testets
         level: 2
@@ -476,6 +667,12 @@ MonoBehaviour:
         path: 
         label: 
         level: 0
+=======
+      selectedNode:
+        path: origin/master
+        label: master
+        level: 2
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -487,6 +684,7 @@ MonoBehaviour:
     newBranchName: 
     scroll: {x: 0, y: 0}
     disableDelete: 1
+<<<<<<< HEAD
     disableCreate: 0
     lastLocalAndRemoteBranchListChangedEvent:
       updatedTimeString: 2023-07-18T08:39:11.249+09:00
@@ -497,6 +695,18 @@ MonoBehaviour:
     currentBranch:
       name: master
       tracking: 
+=======
+    disableCreate: 1
+    lastLocalAndRemoteBranchListChangedEvent:
+      updatedTimeString: 2023-07-17T19:03:39.808+09:00
+      cacheType: 2
+    lastCurrentBranchAndRemoteChange:
+      updatedTimeString: 2023-07-17T19:03:39.841+09:00
+      cacheType: 1
+    currentBranch:
+      name: master
+      tracking: origin/master
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     currentRemote:
       name: origin
       url: https://github.com/hamabu0531/test
@@ -507,6 +717,7 @@ MonoBehaviour:
       token: 
     localBranches:
     - name: master
+<<<<<<< HEAD
       tracking: 
     - name: testets
       tracking: origin/testets
@@ -515,6 +726,12 @@ MonoBehaviour:
       tracking: '[None]'
     - name: origin/testets
       tracking: '[None]'
+=======
+      tracking: origin/master
+    remoteBranches:
+    - name: origin/master
+      tracking: '[None]'
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   changesView:
     currentBranchHasUpdate: 0
     currentStatusEntriesHasUpdate: 0
@@ -525,6 +742,7 @@ MonoBehaviour:
     treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
+<<<<<<< HEAD
         keys:
         - 00000000000000001000000000000000
         - 06f525a9f382a374682e3c2e8e517a4a
@@ -702,6 +920,13 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
+=======
+        keys: []
+        values: []
+      folders:
+        keys: []
+        values: []
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       checkedFileNodes:
         keys: []
         values: []
@@ -730,6 +955,7 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+<<<<<<< HEAD
       - path: Assets
         label: Assets
         level: 0
@@ -930,6 +1156,8 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 1
           workTreeStatus: 1
+=======
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       selectedNode:
         path: 
         label: 
@@ -949,6 +1177,7 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+<<<<<<< HEAD
     gitStatusEntries:
     - path: Assets\prefabs.meta
       fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\prefabs.meta
@@ -1003,18 +1232,35 @@ MonoBehaviour:
       cacheType: 6
     lastLocksChangedEvent:
       updatedTimeString: 2023-07-18T08:46:42.404+09:00
+=======
+    gitStatusEntries: []
+    changedFilesText: No changed files
+    lastCurrentBranchChangedEvent:
+      updatedTimeString: 2023-07-17T19:03:39.841+09:00
+      cacheType: 1
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2023-07-17T19:09:05.777+09:00
+      cacheType: 6
+    lastLocksChangedEvent:
+      updatedTimeString: 2023-07-17T19:05:20.100+09:00
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
     logEntries:
+<<<<<<< HEAD
     - commitID: efc1b6fb45f7b6d2ac32c3086e8f12226bce6023
+=======
+    - commitID: 56a12ff311264f8b192fa42424537e3a61f65e27
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       mergeA: 
       mergeB: 
       authorName: hamabu0531
       authorEmail: hamabu0531@icloud.com
       commitEmail: hamabu0531@icloud.com
       commitName: hamabu0531
+<<<<<<< HEAD
       summary: testtest
       description: 
       timeString: 2023-07-18T08:35:48.000+09:00
@@ -1022,491 +1268,891 @@ MonoBehaviour:
       changes:
       - path: .vsconfig
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\.vsconfig
+=======
+      summary: yesssssss
+      description: test
+      timeString: 2023-07-17T19:03:29.000+09:00
+      commitTimeString: 2023-07-17T19:03:29.000+09:00
+      changes:
+      - path: Assets\scripts.meta
+        fullPath: C:\Users\hamab\team411\test\Assets\scripts.meta
+        projectPath: Assets\scripts.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\scripts\node.cs
+        fullPath: C:\Users\hamab\team411\test\Assets\scripts\node.cs
+        projectPath: Assets\scripts\node.cs
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\scripts\node.cs.meta
+        fullPath: C:\Users\hamab\team411\test\Assets\scripts\node.cs.meta
+        projectPath: Assets\scripts\node.cs.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+    - commitID: 11aebf0501b8a6c19e28a003d66ae74d76e0d5c9
+      mergeA: 
+      mergeB: 
+      authorName: hamabu0531
+      authorEmail: hamabu0531@icloud.com
+      commitEmail: hamabu0531@icloud.com
+      commitName: hamabu0531
+      summary: test
+      description: test
+      timeString: 2023-07-17T19:02:02.000+09:00
+      commitTimeString: 2023-07-17T19:02:02.000+09:00
+      changes:
+      - path: Assets\prefabs.meta
+        fullPath: C:\Users\hamab\team411\test\Assets\prefabs.meta
+        projectPath: Assets\prefabs.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\prefabs\Directional Light.prefab
+        fullPath: C:\Users\hamab\team411\test\Assets\prefabs\Directional Light.prefab
+        projectPath: Assets\prefabs\Directional Light.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\prefabs\Directional Light.prefab.meta
+        fullPath: C:\Users\hamab\team411\test\Assets\prefabs\Directional Light.prefab.meta
+        projectPath: Assets\prefabs\Directional Light.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+    - commitID: 354de1767bb2e78a25c676e9b57ae49a2f952a5d
+      mergeA: 
+      mergeB: 
+      authorName: hamabu0531
+      authorEmail: hamabu0531@icloud.com
+      commitEmail: hamabu0531@icloud.com
+      commitName: hamabu0531
+      summary: test
+      description: test
+      timeString: 2023-07-17T18:59:19.000+09:00
+      commitTimeString: 2023-07-17T18:59:19.000+09:00
+      changes:
+      - path: .vsconfig
+        fullPath: C:\Users\hamab\team411\test\.vsconfig
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: .vsconfig
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\System.Threading.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\System.Threading.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\credits.txt
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\credits.txt
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\credits.txt
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\credits.txt
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\credits.txt.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\credits.txt.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\eula.txt
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\eula.txt
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\eula.txt
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\eula.txt
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\eula.txt.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\eula.txt.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\libsfw.bundle
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\libsfw.bundle
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\libsfw.so
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\libsfw.so
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\libsfw.so
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\sfw.net.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\sfw.net.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x64.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x64.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x86.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x86.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Scenes.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Scenes.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Scenes.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Scenes.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Scenes\SampleScene.unity
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Scenes\SampleScene.unity
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Scenes\SampleScene.unity
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Scenes\SampleScene.unity
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\Scenes\SampleScene.unity.meta
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Scenes\SampleScene.unity.meta
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\Scenes\SampleScene.unity.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\Scenes\SampleScene.unity.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Packages\manifest.json
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Packages\manifest.json
+=======
+        fullPath: C:\Users\hamab\team411\test\Packages\manifest.json
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Packages\manifest.json
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Packages\packages-lock.json
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Packages\packages-lock.json
+=======
+        fullPath: C:\Users\hamab\team411\test\Packages\packages-lock.json
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Packages\packages-lock.json
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\AudioManager.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\AudioManager.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\AudioManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\AudioManager.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\ClusterInputManager.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\ClusterInputManager.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\ClusterInputManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\ClusterInputManager.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\DynamicsManager.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\DynamicsManager.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\DynamicsManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\DynamicsManager.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\EditorBuildSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\EditorBuildSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\EditorBuildSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\EditorBuildSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\EditorSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\EditorSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\EditorSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\EditorSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\GraphicsSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\GraphicsSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\GraphicsSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\GraphicsSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\InputManager.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\InputManager.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\InputManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\InputManager.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\MemorySettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\MemorySettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\MemorySettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\MemorySettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\NavMeshAreas.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\NavMeshAreas.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\NavMeshAreas.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\NavMeshAreas.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\PackageManagerSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\PackageManagerSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\PackageManagerSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\PackageManagerSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\Physics2DSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\Physics2DSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\Physics2DSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\Physics2DSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\PresetManager.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\PresetManager.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\PresetManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\PresetManager.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\ProjectSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\ProjectSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\ProjectSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\ProjectSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\ProjectVersion.txt
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\ProjectVersion.txt
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\ProjectVersion.txt
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\ProjectVersion.txt
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\QualitySettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\QualitySettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\QualitySettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\QualitySettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\TagManager.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\TagManager.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\TagManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\TagManager.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\TimeManager.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\TimeManager.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\TimeManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\TimeManager.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\UnityConnectSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\UnityConnectSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\UnityConnectSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\UnityConnectSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\VFXManager.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\VFXManager.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\VFXManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\VFXManager.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\VersionControlSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\VersionControlSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\VersionControlSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\VersionControlSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: ProjectSettings\XRSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\XRSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\ProjectSettings\XRSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: ProjectSettings\XRSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: UserSettings\EditorUserSettings.asset
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\UserSettings\EditorUserSettings.asset
+=======
+        fullPath: C:\Users\hamab\team411\test\UserSettings\EditorUserSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: UserSettings\EditorUserSettings.asset
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
+<<<<<<< HEAD
       - path: UserSettings\Search.settings
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\UserSettings\Search.settings
+=======
+      - path: UserSettings\Search.index
+        fullPath: C:\Users\hamab\team411\test\UserSettings\Search.index
+        projectPath: UserSettings\Search.index
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: UserSettings\Search.settings
+        fullPath: C:\Users\hamab\team411\test\UserSettings\Search.settings
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: UserSettings\Search.settings
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
+<<<<<<< HEAD
     - commitID: b1d75a65495a5c4fbb9ec26dca8b5d3c66ac175e
+=======
+    - commitID: 014deb9d5365a6171a93906ecd07d71f1136602e
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       mergeA: 
       mergeB: 
       authorName: hamabu0531
@@ -1515,44 +2161,72 @@ MonoBehaviour:
       commitName: hamabu0531
       summary: Initial commit
       description: 
+<<<<<<< HEAD
       timeString: 2023-07-18T08:32:55.000+09:00
       commitTimeString: 2023-07-18T08:32:55.000+09:00
       changes:
       - path: .gitattributes
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\.gitattributes
+=======
+      timeString: 2023-07-17T18:43:48.000+09:00
+      commitTimeString: 2023-07-17T18:43:48.000+09:00
+      changes:
+      - path: .gitattributes
+        fullPath: C:\Users\hamab\team411\test\.gitattributes
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: .gitattributes
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: .gitignore
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\.gitignore
+=======
+        fullPath: C:\Users\hamab\team411\test\.gitignore
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: .gitignore
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\.gitignore
+<<<<<<< HEAD
         fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\.gitignore
+=======
+        fullPath: C:\Users\hamab\team411\test\Assets\.gitignore
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         projectPath: Assets\.gitignore
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
+<<<<<<< HEAD
       updatedTimeString: 2023-07-18T08:39:11.351+09:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
       updatedTimeString: 2023-07-18T08:39:18.705+09:00
+=======
+      updatedTimeString: 2023-07-17T19:05:44.180+09:00
+      cacheType: 3
+    lastTrackingStatusChangedEvent:
+      updatedTimeString: 2023-07-17T19:05:45.106+09:00
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       cacheType: 5
     historyControl:
       scroll: {x: 0, y: 0}
       entries:
+<<<<<<< HEAD
       - commitID: efc1b6fb45f7b6d2ac32c3086e8f12226bce6023
+=======
+      - commitID: 56a12ff311264f8b192fa42424537e3a61f65e27
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         mergeA: 
         mergeB: 
         authorName: hamabu0531
         authorEmail: hamabu0531@icloud.com
         commitEmail: hamabu0531@icloud.com
         commitName: hamabu0531
+<<<<<<< HEAD
         summary: testtest
         description: 
         timeString: 2023-07-18T08:35:48.000+09:00
@@ -1560,491 +2234,891 @@ MonoBehaviour:
         changes:
         - path: .vsconfig
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\.vsconfig
+=======
+        summary: yesssssss
+        description: test
+        timeString: 2023-07-17T19:03:29.000+09:00
+        commitTimeString: 2023-07-17T19:03:29.000+09:00
+        changes:
+        - path: Assets\scripts.meta
+          fullPath: C:\Users\hamab\team411\test\Assets\scripts.meta
+          projectPath: Assets\scripts.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\scripts\node.cs
+          fullPath: C:\Users\hamab\team411\test\Assets\scripts\node.cs
+          projectPath: Assets\scripts\node.cs
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\scripts\node.cs.meta
+          fullPath: C:\Users\hamab\team411\test\Assets\scripts\node.cs.meta
+          projectPath: Assets\scripts\node.cs.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+      - commitID: 11aebf0501b8a6c19e28a003d66ae74d76e0d5c9
+        mergeA: 
+        mergeB: 
+        authorName: hamabu0531
+        authorEmail: hamabu0531@icloud.com
+        commitEmail: hamabu0531@icloud.com
+        commitName: hamabu0531
+        summary: test
+        description: test
+        timeString: 2023-07-17T19:02:02.000+09:00
+        commitTimeString: 2023-07-17T19:02:02.000+09:00
+        changes:
+        - path: Assets\prefabs.meta
+          fullPath: C:\Users\hamab\team411\test\Assets\prefabs.meta
+          projectPath: Assets\prefabs.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\prefabs\Directional Light.prefab
+          fullPath: C:\Users\hamab\team411\test\Assets\prefabs\Directional Light.prefab
+          projectPath: Assets\prefabs\Directional Light.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\prefabs\Directional Light.prefab.meta
+          fullPath: C:\Users\hamab\team411\test\Assets\prefabs\Directional Light.prefab.meta
+          projectPath: Assets\prefabs\Directional Light.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+      - commitID: 354de1767bb2e78a25c676e9b57ae49a2f952a5d
+        mergeA: 
+        mergeB: 
+        authorName: hamabu0531
+        authorEmail: hamabu0531@icloud.com
+        commitEmail: hamabu0531@icloud.com
+        commitName: hamabu0531
+        summary: test
+        description: test
+        timeString: 2023-07-17T18:59:19.000+09:00
+        commitTimeString: 2023-07-17T18:59:19.000+09:00
+        changes:
+        - path: .vsconfig
+          fullPath: C:\Users\hamab\team411\test\.vsconfig
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: .vsconfig
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\System.Threading.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\System.Threading.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\credits.txt
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\credits.txt
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\credits.txt
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\credits.txt
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\credits.txt.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\credits.txt.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\eula.txt
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\eula.txt
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\eula.txt
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\eula.txt
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\eula.txt.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\eula.txt.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\libsfw.bundle
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\libsfw.bundle
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\libsfw.so
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\libsfw.so
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\libsfw.so
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\sfw.net.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\sfw.net.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x64.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x64.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x86.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x86.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Scenes.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Scenes.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Scenes.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Scenes.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Scenes\SampleScene.unity
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Scenes\SampleScene.unity
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Scenes\SampleScene.unity
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Scenes\SampleScene.unity
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\Scenes\SampleScene.unity.meta
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\Scenes\SampleScene.unity.meta
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\Scenes\SampleScene.unity.meta
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\Scenes\SampleScene.unity.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Packages\manifest.json
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Packages\manifest.json
+=======
+          fullPath: C:\Users\hamab\team411\test\Packages\manifest.json
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Packages\manifest.json
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Packages\packages-lock.json
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Packages\packages-lock.json
+=======
+          fullPath: C:\Users\hamab\team411\test\Packages\packages-lock.json
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Packages\packages-lock.json
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\AudioManager.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\AudioManager.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\AudioManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\AudioManager.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\ClusterInputManager.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\ClusterInputManager.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\ClusterInputManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\ClusterInputManager.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\DynamicsManager.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\DynamicsManager.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\DynamicsManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\DynamicsManager.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\EditorBuildSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\EditorBuildSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\EditorBuildSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\EditorBuildSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\EditorSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\EditorSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\EditorSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\EditorSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\GraphicsSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\GraphicsSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\GraphicsSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\GraphicsSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\InputManager.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\InputManager.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\InputManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\InputManager.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\MemorySettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\MemorySettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\MemorySettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\MemorySettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\NavMeshAreas.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\NavMeshAreas.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\NavMeshAreas.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\NavMeshAreas.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\PackageManagerSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\PackageManagerSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\PackageManagerSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\PackageManagerSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\Physics2DSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\Physics2DSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\Physics2DSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\Physics2DSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\PresetManager.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\PresetManager.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\PresetManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\PresetManager.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\ProjectSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\ProjectSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\ProjectSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\ProjectSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\ProjectVersion.txt
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\ProjectVersion.txt
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\ProjectVersion.txt
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\ProjectVersion.txt
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\QualitySettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\QualitySettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\QualitySettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\QualitySettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\TagManager.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\TagManager.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\TagManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\TagManager.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\TimeManager.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\TimeManager.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\TimeManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\TimeManager.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\UnityConnectSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\UnityConnectSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\UnityConnectSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\UnityConnectSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\VFXManager.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\VFXManager.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\VFXManager.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\VFXManager.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\VersionControlSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\VersionControlSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\VersionControlSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\VersionControlSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: ProjectSettings\XRSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\ProjectSettings\XRSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\ProjectSettings\XRSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: ProjectSettings\XRSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: UserSettings\EditorUserSettings.asset
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\UserSettings\EditorUserSettings.asset
+=======
+          fullPath: C:\Users\hamab\team411\test\UserSettings\EditorUserSettings.asset
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: UserSettings\EditorUserSettings.asset
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
+<<<<<<< HEAD
         - path: UserSettings\Search.settings
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\UserSettings\Search.settings
+=======
+        - path: UserSettings\Search.index
+          fullPath: C:\Users\hamab\team411\test\UserSettings\Search.index
+          projectPath: UserSettings\Search.index
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: UserSettings\Search.settings
+          fullPath: C:\Users\hamab\team411\test\UserSettings\Search.settings
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: UserSettings\Search.settings
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
+<<<<<<< HEAD
       - commitID: b1d75a65495a5c4fbb9ec26dca8b5d3c66ac175e
+=======
+      - commitID: 014deb9d5365a6171a93906ecd07d71f1136602e
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         mergeA: 
         mergeB: 
         authorName: hamabu0531
@@ -2053,28 +3127,45 @@ MonoBehaviour:
         commitName: hamabu0531
         summary: Initial commit
         description: 
+<<<<<<< HEAD
         timeString: 2023-07-18T08:32:55.000+09:00
         commitTimeString: 2023-07-18T08:32:55.000+09:00
         changes:
         - path: .gitattributes
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\.gitattributes
+=======
+        timeString: 2023-07-17T18:43:48.000+09:00
+        commitTimeString: 2023-07-17T18:43:48.000+09:00
+        changes:
+        - path: .gitattributes
+          fullPath: C:\Users\hamab\team411\test\.gitattributes
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: .gitattributes
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: .gitignore
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\.gitignore
+=======
+          fullPath: C:\Users\hamab\team411\test\.gitignore
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: .gitignore
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\.gitignore
+<<<<<<< HEAD
           fullPath: C:\Users\hamab\Desktop\Create with Code\DB_Github_test\Assets\.gitignore
+=======
+          fullPath: C:\Users\hamab\team411\test\Assets\.gitignore
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
           projectPath: Assets\.gitignore
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
       statusAhead: 0
+<<<<<<< HEAD
       selectedIndex: 0
     selectedEntry:
       commitID: efc1b6fb45f7b6d2ac32c3086e8f12226bce6023
@@ -2575,11 +3666,28 @@ MonoBehaviour:
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
+=======
+      selectedIndex: -1
+    selectedEntry:
+      commitID: 
+      mergeA: 
+      mergeB: 
+      authorName: 
+      authorEmail: 
+      commitEmail: 
+      commitName: 
+      summary: 
+      description: 
+      timeString: 0001-01-01T00:00:00.000+00:00
+      commitTimeString: 0001-01-01T00:00:00.000+00:00
+      changes: []
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     treeChanges:
       assets:
         keys: []
         values: []
       folders:
+<<<<<<< HEAD
         keys:
         - Assets
         - Assets\Plugins
@@ -2810,15 +3918,24 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
+=======
+        keys: []
+        values: []
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       checkedFileNodes:
         keys: []
         values: []
       title: 
+<<<<<<< HEAD
       pathSeparator: \
+=======
+      pathSeparator: /
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       displayRootNode: 0
       isSelectable: 1
       isCheckable: 0
       isUsingGlobalSelection: 0
+<<<<<<< HEAD
       nodes:
       - path: 
         label: 
@@ -4512,6 +5629,9 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
+=======
+      nodes: []
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       selectedNode:
         path: 
         label: 
@@ -4542,7 +5662,11 @@ MonoBehaviour:
       changingManually: 0
     hasRemote: 1
     lastCurrentRemoteChangedEvent:
+<<<<<<< HEAD
       updatedTimeString: 2023-07-18T08:46:40.334+09:00
+=======
+      updatedTimeString: 2023-07-17T19:03:39.841+09:00
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       cacheType: 1
     metricsEnabled: 1
     newRepositoryRemoteUrl: https://github.com/hamabu0531/test
@@ -4556,7 +5680,11 @@ MonoBehaviour:
       newGitEmail: hamabu0531@icloud.com
       needsSaving: 0
       lastCheckUserChangedEvent:
+<<<<<<< HEAD
         updatedTimeString: 2023-07-18T08:36:52.596+09:00
+=======
+        updatedTimeString: 2023-07-17T18:58:57.867+09:00
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
         cacheType: 8
     webTimeout: 3000
     gitTimeout: 5000
@@ -4585,6 +5713,7 @@ MonoBehaviour:
         gitFileStatus: 0
         lockedAt: 1 1 0001, 09:00
     lastCurrentRemoteChangedEvent:
+<<<<<<< HEAD
       updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 1
     lastLocksChangedEvent:
@@ -4596,6 +5725,19 @@ MonoBehaviour:
     lockedFiles: []
     gitStatusEntries: []
     currentUsername: hamabu0531
+=======
+      updatedTimeString: 2023-07-17T19:03:39.841+09:00
+      cacheType: 1
+    lastLocksChangedEvent:
+      updatedTimeString: 2023-07-17T19:05:20.100+09:00
+      cacheType: 7
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2023-07-17T19:05:45.987+09:00
+      cacheType: 6
+    lockedFiles: []
+    gitStatusEntries: []
+    currentUsername: 
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     unlockFileMenuContent:
       m_Text: Release Lock
       m_Image: {fileID: 0}
@@ -4610,7 +5752,11 @@ MonoBehaviour:
   currentRemoteUrl: https://github.com/hamabu0531/test
   statusAhead: 0
   statusBehind: 0
+<<<<<<< HEAD
   hasItemsToCommit: 1
+=======
+  hasItemsToCommit: 0
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: master
@@ -4621,6 +5767,7 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
+<<<<<<< HEAD
     updatedTimeString: 2023-07-18T08:46:40.334+09:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
@@ -4628,6 +5775,15 @@ MonoBehaviour:
     cacheType: 5
   lastStatusEntriesChangedEvent:
     updatedTimeString: 2023-07-18T08:59:49.993+09:00
+=======
+    updatedTimeString: 2023-07-17T19:03:39.841+09:00
+    cacheType: 1
+  lastTrackingStatusChangedEvent:
+    updatedTimeString: 2023-07-17T19:09:05.784+09:00
+    cacheType: 5
+  lastStatusEntriesChangedEvent:
+    updatedTimeString: 2023-07-17T19:09:05.777+09:00
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -4645,12 +5801,21 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
+<<<<<<< HEAD
   repositoryProgressValue: 0
   repositoryProgressMessage: 
   appManagerProgressValue: 1
   appManagerProgressMessage: Initialized
   connections: []
   primaryConnectionUsername: hamabu0531
+=======
+  repositoryProgressValue: 1
+  repositoryProgressMessage: Listing changed files...
+  appManagerProgressValue: 1
+  appManagerProgressMessage: Initialized
+  connections: []
+  primaryConnectionUsername: 
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -4660,6 +5825,267 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
+=======
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 907
+    y: 73
+    width: 306
+    height: 918
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 14fbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 4ecd3c5507246df4bb8865f4f3815b94
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1490
+    y: 73
+    width: 429
+    height: 918
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_PreviewResizer:
+    m_CachedPref: -160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_LastInspectedObjectInstanceID: 26170
+  m_LastVerticalScrollValue: 0
+  m_GlobalObjectId: 
+  m_InspectorMode: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1215
+    y: 73
+    width: 273
+    height: 918
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets
+    m_Globs: []
+    m_OriginalText: 
+    m_ImportLogFlags: 0
+    m_FilterByTypeIntersection: 0
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\hamab\team411\test
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 32590000
+    m_LastClickedID: 22834
+    m_ExpandedIDs: 000000003259000000ca9a3bffffff7f
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 000000003259000000ca9a3bffffff7f
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: 
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 8}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 115
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -4667,14 +6093,24 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Game
+<<<<<<< HEAD
     m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 444
     width: 723
     height: 331.4
+=======
+    y: 555
+    width: 906
+    height: 436
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -4691,7 +6127,11 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_TargetSize: {x: 723, y: 310.4}
+=======
+  m_TargetSize: {x: 906, y: 415}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -4706,10 +6146,17 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -289.2
     m_HBaseRangeMax: 289.2
     m_VBaseRangeMin: -124.159996
     m_VBaseRangeMax: 124.159996
+=======
+    m_HBaseRangeMin: -453
+    m_HBaseRangeMax: 453
+    m_VBaseRangeMin: -207.5
+    m_VBaseRangeMax: 207.5
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -4727,16 +6174,24 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
       width: 723
       height: 310.4
     m_Scale: {x: 1.25, y: 1.25}
     m_Translation: {x: 361.5, y: 155.2}
+=======
+      width: 906
+      height: 415
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 453, y: 207.5}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -289.2
       y: -124.159996
       width: 578.4
@@ -4744,12 +6199,25 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 903.75, y: 414.25}
+=======
+      x: -453
+      y: -207.5
+      width: 906
+      height: 415
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 906, y: 436}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
+<<<<<<< HEAD
 --- !u!114 &14
+=======
+--- !u!114 &17
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4765,14 +6233,24 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
+<<<<<<< HEAD
     m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 73.6
     width: 723
     height: 349.4
+=======
+    y: 73
+    width: 906
+    height: 461
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -4787,7 +6265,11 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
+<<<<<<< HEAD
       snapOffset: {x: -171, y: -26.399994}
+=======
+      snapOffset: {x: -166, y: -26}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Tool Settings
@@ -5055,6 +6537,7 @@ MonoBehaviour:
       layout: 4
       size: {x: 0, y: 0}
       sizeOverriden: 0
+<<<<<<< HEAD
     - dockPosition: 1
       containerId: overlay-container--right
       floating: 0
@@ -5070,6 +6553,10 @@ MonoBehaviour:
       sizeOverriden: 0
     m_OverlaysVisible: 1
   m_WindowGUID: 6c95bc0ff0681694e9d016c3ea3753c6
+=======
+    m_OverlaysVisible: 1
+  m_WindowGUID: eb1ac2d5d37ccf7429befc3eef6ef859
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
@@ -5122,7 +6609,11 @@ MonoBehaviour:
         m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
       m_Size: {x: 1, y: 1}
+=======
+      m_Size: {x: 0, y: 0}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
     m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.5
@@ -5151,13 +6642,18 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: 0.01949653, y: 0.014996537, z: -0.00029247286, w: 0.9996972}
+=======
+  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_SceneVisActive: 1
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
+<<<<<<< HEAD
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -5448,3 +6944,5 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
+=======
+>>>>>>> 7579feb5363d699e3421f4343c23bddcb6d71759
